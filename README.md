@@ -1,6 +1,6 @@
 # Agentic-RAG-System-for-Patent-Intelligence
 
-**AI-Agent-for-Patent-Research** is a modular, production-ready AI research agent designed to automate and scale product research workflows using retrieval-augmented generation (RAG), semantic embeddings, and intelligent task orchestration. This system can ingest, index, retrieve, and synthesize structured and unstructured data for deep product insights — including patent analysis, competitive research, and knowledge discovery.
+**Agentic-RAG-System-for-Patent-Intelligence** is a modular, production-ready AI research agent designed to automate and scale product research workflows using retrieval-augmented generation (RAG), semantic embeddings, and intelligent task orchestration. This system can ingest, index, retrieve, and synthesize structured and unstructured data for deep product insights — including patent analysis, competitive research, and knowledge discovery.
 
 ---
 
