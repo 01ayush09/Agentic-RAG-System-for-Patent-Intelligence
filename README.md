@@ -1,10 +1,10 @@
-# 📚 Agentic RAG System for Patent Intelligence
+#  Agentic RAG System for Patent Intelligence
 
 > A modular, agent-driven Retrieval-Augmented Generation (RAG) system tailored for deep patent research, competitive intelligence, and automated product insights.
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 **Agentic RAG System for Patent Intelligence** is a structured AI research agent that automates and accelerates high-complexity research workflows using:
 
@@ -19,7 +19,7 @@ This repository is ideal for AI engineers, data scientists, and product teams th
 
 ---
 
-## 🧠 What It Does
+##  What It Does
 
 This system enables you to:
 
@@ -34,20 +34,20 @@ It forms a flexible pipeline that bridges *data ingestion*, *semantic search*, a
 
 ---
 
-## 🛠️ Core Features
+##  Core Features
 
-### 📌 Content Ingestion
+###  Content Ingestion
 
 - Load and preprocess text sources (patents, docs, crawled content)
 - Normalize and chunk data for embedding efficiency
 
-### 🧠 Vector Search & RAG
+###  Vector Search & RAG
 
 - Generate high-quality embeddings
 - Index data into vector stores for semantic retrieval
 - Combine retrieved context with LLMs for grounded responses
 
-### 🤖 Agentic Workflow
+###  Agentic Workflow
 
 - Orchestrate retrieval + reasoning intelligently
 - Support multi-step synthesis of results
@@ -55,7 +55,7 @@ It forms a flexible pipeline that bridges *data ingestion*, *semantic search*, a
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 Agentic-RAG-System-for-Patent-Intelligence/
@@ -75,7 +75,7 @@ Agentic-RAG-System-for-Patent-Intelligence/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### 1️⃣ Clone the Repository
 
@@ -131,7 +131,7 @@ This synthesizes retrieval results + LLM generation for a deep answer.
 
 ---
 
-## 🧪 Developer Notebook
+##  Developer Notebook
 
 Explore the included `dev.ipynb` to:
 
@@ -141,7 +141,7 @@ Explore the included `dev.ipynb` to:
 
 ---
 
-## 📈 Example Query
+##  Example Query
 
 ```python
 result = rag.query(
@@ -156,7 +156,7 @@ This returns detailed structured responses with citations and context.
 
 ---
 
-## 📌 Why This Matters
+##  Why This Matters
 
 RAG systems augment LLMs with external knowledge retrieval, grounding answers in facts and data. In domains like patent intelligence and competitive research, this approach:
 
@@ -169,7 +169,7 @@ RAG has become a standard for trustworthy generative applications in knowledge w
 
 ---
 
-## 📦 Deployment (Optional)
+##  Deployment (Optional)
 
 For containerized deployment:
 
@@ -181,7 +181,7 @@ This orchestrates services for search backends and the RAG application.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Your contributions are welcome! Please follow:
 
@@ -192,7 +192,7 @@ Your contributions are welcome! Please follow:
 
 ---
 
-## 📜 License
+##  License
 
 This project is released under the **MIT License**.
 
@@ -204,7 +204,7 @@ If this project helps you, please ⭐ star it on GitHub!
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Agentic RAG System for Patent Intelligence** is ideal for:
 
